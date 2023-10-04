@@ -1,4 +1,4 @@
-/* LESSON 3 - Programming Tasks */
+/* LESSON 4 - Programming Tasks */
 
 /* Profile Object  */
 let myProfile = {
